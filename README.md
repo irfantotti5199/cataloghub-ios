@@ -167,6 +167,18 @@ Product catalogue data is retrieved through the backend using the Fake Store API
 
 The iOS application does not call the external product API directly.
 
+## API Endpoints
+
+| Method | Endpoint | Description |
+|---|---|---|
+| GET | `/api/products` | Fetch all products |
+| GET | `/api/products/featured` | Fetch five featured products |
+| GET | `/api/products/:id` | Fetch product details |
+| GET | `/api/products/search?q=` | Search products |
+| GET | `/api/categories` | Fetch categories |
+| GET | `/api/categories/:category/products` | Fetch category products |
+| POST | `/api/enquiries` | Submit product enquiry |
+
 ## License
 
 This project was created as a technical assignment.
