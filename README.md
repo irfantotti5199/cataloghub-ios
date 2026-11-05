@@ -14,6 +14,24 @@ CatalogHub allows users to explore featured products, browse categories, search 
 - **Enquiry Form:** Submit customer contact details and product enquiries.
 - **Email Notifications:** Backend sends enquiry details to the configured sales inbox.
 
+  ## Application Screenshots
+
+### Home Screen
+![Home Screen](docs/screenshots/home.png)
+
+### Categories
+![Categories](docs/screenshots/categories.png)
+
+### Search
+![Search](docs/screenshots/search.png)
+
+### Product Details
+![Product Details](docs/screenshots/product-details.png)
+
+### Enquiry
+![Enquiry](docs/screenshots/enquiry.png)
+
+
 ## Technology Stack
 
 ### iOS
