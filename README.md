@@ -1,3 +1,4 @@
+
 # CatalogHub
 
 A product catalogue application built using **SwiftUI, Swift, Node.js and TypeScript**.
@@ -14,21 +15,32 @@ CatalogHub allows users to explore featured products, browse categories, search 
 - **Enquiry Form:** Submit customer contact details and product enquiries.
 - **Email Notifications:** Backend sends enquiry details to the configured sales inbox.
 
-  ## Application Screenshots
+
+## Application Screenshots
 
 ### Home Screen
+Displays five featured products.
+
 ![Home Screen](docs/screenshots/home.png)
 
 ### Categories
+Displays product categories and top-rated products.
+
 ![Categories](docs/screenshots/categories.png)
 
 ### Search
+Displays products matching the search query.
+
 ![Search](docs/screenshots/search.png)
 
 ### Product Details
+Displays detailed information about the selected product.
+
 ![Product Details](docs/screenshots/product-details.png)
 
 ### Enquiry
+Allows customers to submit product enquiries.
+
 ![Enquiry](docs/screenshots/enquiry.png)
 
 
